@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-color: rgb(19, 22, 56);
+}
+
+input {
+    background: transparent;
+    border-style: solid;
+    border-color: lightblue;
+    border-radius: 5%;
+    color: white;
+    font-weight: 150%;
+}
+
+img {
+    width: 20%;
+}
+
+hr {
+    border-style: solid;
+    border-color: rgb(57, 64, 112);
+    border-width: 2px;
+}
+
+p {
+    color: hsla(0,0%,100%,.5);
+    font-family: Work Sans,sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+#submit {
+    background: transparent;
+    border-style: solid;
+    border-color: lightblue;
+    border-radius: 5%;
+    color: white;
+    font-weight: 150%;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+#submit:hover {
+    transform: scale(1.25, 1.25);
+}
+#submit:active {
+    transform: scale(0.75, 0.75);
+}
+
+#Result {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.BigWhite {
+    color: white;
+    font-family: Work Sans,sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.img {
+    width: 20%;
+}
