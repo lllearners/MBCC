@@ -3,8 +3,11 @@ Marble Cards Calculator chrome extension
 Thanks for reading :)
 
 Logo for chrome extension store page
-![] (marble-store-logo.jpg)
+
+![](https://github.com/lllearners/MBCC/blob/main/marble-store-logo.jpg)
 
 
 Chrome store page screenshot/review.
-![] (store-screenshot.jpg)
+
+![](https://github.com/lllearners/MBCC/blob/main/store-screenshot.jpg)
+
